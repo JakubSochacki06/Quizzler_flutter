@@ -29,5 +29,9 @@ I discovered pub.dev and learned how to install and use packages.
 
 - Using API to provide questions
 
-- Ability to chose between 2 modes: normal(20 questions) endless(you have 3 lives and you have to answer correctly, so you don't lose them)
+- Ability to chose between 2 modes:
+<br>
+normal(20 questions)
+<br>
+endless(you have 3 lives and you have to answer correctly, so you don't lose them)
 
