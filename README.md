@@ -20,7 +20,8 @@ Mobile quizz application created in Flutter.
 
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+I learned how to use Figma to create basic UI.
+I discovered pub.dev and learned how to install and use packages
 
 
 ## Roadmap
