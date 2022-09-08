@@ -22,12 +22,12 @@ Mobile quizz application created in Flutter.
 
 I learned how to use Figma to create basic UI.
 <br>
-I discovered pub.dev and learned how to install and use packages
+I discovered pub.dev and learned how to install and use packages.
 
 
 ## Roadmap
 
-- Additional browser support
+- Using API to provide questions
 
-- Add more integrations
+- Ability to chose between 2 modes: normal(20 questions) endless(you have 3 lives and you have to answer correctly, so you don't lose them)
 
