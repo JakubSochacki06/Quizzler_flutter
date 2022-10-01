@@ -12,7 +12,7 @@ Mobile quizz application created in Flutter.
 
 ## Screenshots
 
-<img alt="Quizller app photo" width="150px" align="center" src="https://github.com/JakubSochacki06/quizzler_flutter/blob/master/files/photo1.jpg">
+<img alt="Quizller app photo" width="250px" align="center" src="https://github.com/JakubSochacki06/quizzler_flutter/blob/master/files/photo1.jpg">
 
 
 ## Lessons Learned
